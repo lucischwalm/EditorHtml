@@ -1,0 +1,15 @@
+D:\Projetos-git\Balta\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+D:\Projetos-git\Balta\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+D:\Projetos-git\Balta\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+D:\Projetos-git\Balta\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+D:\Projetos-git\Balta\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+D:\Projetos-git\Balta\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
